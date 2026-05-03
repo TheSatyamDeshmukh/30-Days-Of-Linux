@@ -1,6 +1,6 @@
 # 30 DAYS OF LINUX 🐧
 
-Welcome to the **30 DAYS OF LINUX** 💻 repository! Yeh repository ek **complete Linux learning journey** hai — bilkul zero se shuru karke advanced level tak. Agar tumne kabhi Linux nahi use kiya, toh bhi koi baat nahi — har concept **simple Hindi/Hinglish bhasha** mein explain kiya gaya hai taaki ek 5th class ka student bhi samajh sake! 🚀
+Welcome to the **30 DAYS OF LINUX** 💻 repository! Yeh repository ek **complete Linux learning journey** hai — bilkul zero se shuru karke advanced level tak. Agar tumne kabhi Linux nahi use kiya, toh bhi koi baat nahi — har concept **simple Hindi/Hinglish bhasha** mein explain kiya gaya hai taaki NON technical bhi samajh sake! 🚀
 
 > **"Linux seekhna matlab computer ka asli boss banana!"** 👑
 
