@@ -4,7 +4,7 @@
 
 ---
 
-## 🤔 Linux Kya Hai? (5th Class Ke Student Ke Liye)
+## 🤔 Linux Kya Hai?
 
 Socho tumhare ghar mein ek **bada sa ghar** hai. Uss ghar mein:
 - **Bijli, Paani, Gas** = Computer ka Hardware (CPU, RAM, Keyboard)
