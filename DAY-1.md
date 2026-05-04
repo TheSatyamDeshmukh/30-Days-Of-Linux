@@ -168,12 +168,12 @@ user@ubuntu:~$ _
 
 ## 📝 Homework — Aaj Karo!
 
-- [ ] VirtualBox install karo
-- [ ] Ubuntu ISO download karo (22.04 LTS recommended)
-- [ ] Virtual Machine banao
-- [ ] Ubuntu install karo
-- [ ] Pehli baar **Terminal** kholo
-- [ ] `whoami` type karo aur Enter dabao — kya aaya?
+- [✅] VirtualBox install karo
+- [✅] Ubuntu ISO download karo (22.04 LTS recommended)
+- [✅] Virtual Machine banao
+- [✅] Ubuntu install karo
+- [✅] Pehli baar **Terminal** kholo
+- [✅] `whoami` type karo aur Enter dabao — kya aaya?
 
 ---
 
