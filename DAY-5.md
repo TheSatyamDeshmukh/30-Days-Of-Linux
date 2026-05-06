@@ -10,7 +10,7 @@ GUI mein Notepad ya VS Code use karte ho. Lekin server pe GUI nahi hota! **Sirf 
 
 ---
 
-## 🟢 NANO — Beginner Ka Dost (Easy!)
+## 🟢 NANO — Beginner (Easy!)
 
 Nano **simple aur easy** hai. Bilkul Notepad jaisa feel.
 
