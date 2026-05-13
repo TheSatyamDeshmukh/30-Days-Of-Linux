@@ -4,7 +4,7 @@
 
 ---
 
-## 🌍 Network Concepts — Simple Bhasha Mein
+## 🌍 Network Concepts
 
 **IP Address** = Tumhare ghar ka address. Jaise "Gali No. 5, House No. 12" — waise hi IP batata hai computer kahaan hai.
 
