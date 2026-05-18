@@ -12,7 +12,7 @@ Jab Linux start hota hai, **systemd** sabse pehle chalta hai (PID 1). Woh baaki 
 
 ---
 
-## ⚙️ systemctl — Services Control Karo
+## ⚙️ systemctl — Services Control 
 
 ```bash
 # Service STATUS
