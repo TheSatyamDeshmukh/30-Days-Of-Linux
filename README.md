@@ -145,7 +145,7 @@ Welcome to the **30 DAYS OF LINUX** 💻 repository! Yeh repository ek **complet
 | Phase 1 | Day 1-5 | Linux Basics | ✅ |
 | Phase 2 | Day 6-10 | System Control | ✅ |
 | Phase 3 | Day 11-15 | Networking & Storage | ✅ |
-| Phase 4 | Day 16-20 | Automation & Security |  |
+| Phase 4 | Day 16-20 | Automation & Security |✅ |
 | Phase 5 | Day 21-25 | Advanced Linux | ⬜ |
 | Phase 6 | Day 26-30 | Real World Projects | ⬜ |
 
