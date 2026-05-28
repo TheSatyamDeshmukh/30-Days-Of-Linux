@@ -149,7 +149,6 @@ Welcome to the **30 DAYS OF LINUX** 💻 repository! Yeh repository ek **complet
 | Phase 5 | Day 21-25 | Advanced Linux | ✅ |
 | Phase 6 | Day 26-30 | Real World Projects | ⬜ |
 
-*(Jaise complete karo, ⬜ ko ✅ se replace karo!)*
 
 ---
 
